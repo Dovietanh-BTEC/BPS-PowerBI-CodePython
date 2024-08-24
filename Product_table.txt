@@ -1,0 +1,51 @@
+Product ID,Product Name,Category ID,Price,Stock Quantity
+1,Smartphone,1,699.99,150
+2,Laptop,1,999.99,75
+3,Headphones,1,199.99,200
+4,T-shirt,2,19.99,500
+5,Jeans,2,39.99,300
+6,Refrigerator,3,899.99,30
+7,Microwave,3,149.99,100
+8,Toy Car,4,29.99,250
+9,Doll,4,24.99,150
+10,Fantasy Novel,5,14.99,400
+11,Cookbook,5,19.99,350
+12,Face Cream,6,29.99,200
+13,Lipstick,6,19.99,300
+14,Tennis Racket,7,89.99,75
+15,Basketball,7,29.99,150
+16,Sofa,8,499.99,20
+17,Coffee Table,8,199.99,40
+18,Diamond Ring,9,1999.99,10
+19,Gold Necklace,9,1499.99,15
+20,Rice,10,2.99,1000
+21,Pasta,10,1.99,800
+22,Smartwatch,1,249.99,120
+23,Tablet,1,499.99,60
+24,Bluetooth Speaker,1,149.99,180
+25,Winter Jacket,2,89.99,100
+26,Sneakers,2,69.99,200
+27,Air Conditioner,3,499.99,25
+28,Dishwasher,3,799.99,15
+29,Action Figure,4,34.99,220
+30,Board Game,4,29.99,160
+31,Science Fiction Book,5,12.99,370
+32,Self-help Book,5,15.99,300
+33,Perfume,6,49.99,140
+34,Hair Dryer,6,39.99,90
+35,Yoga Mat,7,29.99,110
+36,Running Shoes,7,79.99,130
+37,Desk,8,199.99,50
+38,Office Chair,8,149.99,75
+39,Emerald Earrings,9,999.99,12
+40,Bracelet,9,299.99,20
+41,Canned Beans,10,0.99,600
+42,Olive Oil,10,5.99,400
+43,Wireless Charger,1,39.99,250
+44,Portable Hard Drive,1,89.99,90
+45,Smart Light Bulb,1,19.99,400
+46,Summer Dress,2,49.99,150
+47,Winter Boots,2,89.99,80
+48,Electric Kettle,3,39.99,120
+49,Blender,3,59.99,90
+50,Cereal,10,3.99,500
